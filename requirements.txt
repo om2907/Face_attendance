@@ -7,3 +7,6 @@ scikit-learn==1.0.2
 Pillow==9.1.1
 setuptools==65.5.0
 wheel==0.37.1
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments>=2.13.0
