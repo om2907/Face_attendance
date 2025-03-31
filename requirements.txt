@@ -5,4 +5,5 @@ streamlit==1.30.0
 pandas==1.5.3
 scipy==1.10.1
 cmake==3.26.4
-https://github.com/om2907/Face_attendance/blob/main/Dependacies/Dlib_Windows_Python3.x-main/Dlib_Windows_Python3.x-main/dlib-19.22.99-cp310-cp310-win_amd64.whl
+dlib==19.24.2
+
